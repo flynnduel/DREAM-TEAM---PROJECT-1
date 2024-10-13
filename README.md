@@ -28,7 +28,9 @@ One last table was added on at the end for any promotions or discounts the busin
 
 ![project1dbpic](https://github.com/user-attachments/assets/328c88e4-59ad-4e66-9eb4-57fdf2dbd398)
 
+## Data Dictionary
 
+![Image 10-13-24 at 6 15 PM](https://github.com/user-attachments/assets/d689968c-9a82-46b7-bfb7-5430b57b2cfd)
 
 ## Queries
 ### Complex 1
