@@ -39,10 +39,14 @@ One last table was added on at the end for any promotions or discounts the busin
  
 <img width="510" alt="Screenshot 2024-10-13 at 3 58 51 PM" src="https://github.com/user-attachments/assets/2a261965-8bba-4352-8555-7aa209bc82e4">
 
+**Why is this important for management? -**
+
 ### Complex 2
 This query lists the artists who sold the most records in the store in descending order.
 
 <img width="485" alt="Screenshot 2024-10-13 at 4 00 27 PM" src="https://github.com/user-attachments/assets/6b6fed06-57c1-41e4-9aac-8bf2c02d4a43">
+
+**Why is this important for management? -**
 
 ### Complex 3
 This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled.
@@ -56,26 +60,34 @@ This query lists each employee based on the most orders fulfilled to the least a
 This query shows how many records from each genre have recieved promotions
 <img width="729" alt="Screenshot 2024-10-13 at 18 41 12" src="https://github.com/user-attachments/assets/78ed185f-2484-4324-bd62-d3d2bdfccf99">
 
+**Why is this important for management? -**
+
 ### Complex 5
 This query shows the name, order date, and order ID of customers that have placed an order that has not yet been shipped.
 <img width="839" alt="Screenshot 2024-10-13 at 18 45 09" src="https://github.com/user-attachments/assets/1c96933c-63f2-40bd-83b3-64efd5767a98">
 
+**Why is this important for management? -**
+
 ### Complex 6
 
-This query shows the total sales by employee. Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
+This query shows the total sales by employee. 
 <img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
+
+**Why is this important for management? -** Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
 
 ### Simple 1
 The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
 
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
-This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
+**Why is this important for management? -** This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
 
 ### Simple 2
 This query shows all of the promotions that were over a week long and how long they lasted each lasted.
 
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
+
+**Why is this important for management? -**
 
 ### Simple 3
 This query lists the number of orders, in descending order, placed in each state.
@@ -88,7 +100,7 @@ This query lists the number of orders, in descending order, placed in each state
 This query lists the names of artists who have less than 3 records associated with them.
 <img width="584" alt="Screenshot 2024-10-13 at 19 07 09" src="https://github.com/user-attachments/assets/a4fc4d23-66ef-4830-b5d8-1b9fb8657244">
 
-This query can be useful to management for identifying underrepresented or emerging artists within their catalog. It helps pinpoint artists who have not yet been capitalized on by the management team. By recognizing these artists, management can explore opportunities to expand their record catalog. This insight is valuable for strategic planning, as investing in these artists could boost market presence and generate additional revenue.
+**Why is this important for management? -** This query can be useful to management for identifying underrepresented or emerging artists within their catalog. It helps pinpoint artists who have not yet been capitalized on by the management team. By recognizing these artists, management can explore opportunities to expand their record catalog. This insight is valuable for strategic planning, as investing in these artists could boost market presence and generate additional revenue.
 
 ### Database Information
 Name of the database: 
