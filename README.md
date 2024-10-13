@@ -62,8 +62,9 @@ This query shows the total sales by employee. Management can use this to track e
 <img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
 
 ### Simple 1
+The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
-
+This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
 ### Simple 2
 
 shows all of the promotions that were over a week long and how long they lasted:
@@ -78,3 +79,10 @@ This query lists the number of orders, in descending order, placed in each state
 ### Simple 4
 This query lists the names of artists who have less than 3 records associated with them.
 <img width="584" alt="Screenshot 2024-10-13 at 19 07 09" src="https://github.com/user-attachments/assets/a4fc4d23-66ef-4830-b5d8-1b9fb8657244">
+
+This query can be useful to management for identifying underrepresented or emerging artists within their catalog. It helps pinpoint artists who have not yet been capitalized on by the management team. By recognizing these artists, management can explore opportunities to expand their record catalog. This insight is valuable for strategic planning, as investing in these artists could boost market presence and generate additional revenue.
+
+### Database Information
+Name of the database: 
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
