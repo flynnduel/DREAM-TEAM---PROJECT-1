@@ -13,7 +13,9 @@ MIST 4610: 29704 - Dream Team
 ## Problem Description
 
 ## Data Model
-(<blockquote class="imgur-embed-pub" lang="en" data-id="a/3QwgzIk"  ><a href="//imgur.com/a/3QwgzIk">Data Model</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+<img width="583" alt="Screenshot 2024-10-13 at 3 50 38 PM" src="https://github.com/user-attachments/assets/4ee3a424-21e4-4571-8d28-07ec536c393b">
+
+
 ## Queries
 ### Complex 1
 SELECT artist.artistname, SUM(inventory.quantityinstock) AS remaining_inventory FROM inventory
