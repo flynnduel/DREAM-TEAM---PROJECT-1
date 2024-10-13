@@ -78,6 +78,9 @@ FROM promotion
 WHERE DATEDIFF(enddate, startdate) > 7;
 
 ### Simple 3
+This query lists the number of orders, in descending order, placed in each state.
+
 <img width="500" alt="Screenshot 2024-10-13 at 4 22 00 PM" src="https://github.com/user-attachments/assets/11c2fde8-cd77-4118-9f71-36145e1c858a">
 
+**Why is this important for management? -** Management needs to be able to determine what states are doing the best from a sales standpoint. This query allows management to track where most of their sales are coming from and then make the appropriate decisions regarding the best way to approach selling in each state. One state may have many sales while another is doing really well; this query will allow management to decide on where they want to focus their marketing. It will also further aid management in the decision of if they want to pull out of a certain state that is not producing the amount of sales it needs to be producing. 
 ### Simple 4
