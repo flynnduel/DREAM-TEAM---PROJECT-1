@@ -63,7 +63,9 @@ This query shows the total sales by employee. Management can use this to track e
 
 ### Simple 1
 The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
+
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
+
 This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
 ### Simple 2
 
