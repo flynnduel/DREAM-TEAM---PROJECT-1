@@ -1,23 +1,23 @@
 # DREAM-TEAM---PROJECT-1
 
-# Team Name
+## Team Name
 MIST 4610: 29704 - Dream Team
 
-# Team Members
+## Team Members
 * Flynn Duel
 * Anna Pachon
 * Jeremiah Doherty
 * Geetika Polkam
 * Krutee Pillay
 
-# Problem Description
+## Problem Description
 
-# Data Model
+## Data Model
 
-# Data Dictionary
+## Data Dictionary
 
-# Queries
-# Complex 1
+## Queries
+### Complex 1
 SELECT artist.artistname, SUM(inventory.quantityinstock) AS remaining_inventory FROM inventory
 
 JOIN supplier_has_record 
@@ -30,17 +30,17 @@ JOIN artist ON record.artist_idartist = artist.idartist
 GROUP BY artist.artistname
 ORDER BY remaining_inventory DESC;
 
-# Complex 2
+### Complex 2
 
-# Complex 3
+### Complex 3
 
-# Complex 4
+### Complex 4
 
-# Complex 5
+### Complex 5
 
-# Complex 6
+### Complex 6
 
-# Simple 1
+### Simple 1
 
 # Simple 2
 
