@@ -42,8 +42,8 @@ ORDER BY remaining_inventory DESC;
 
 ### Simple 1
 
-# Simple 2
+### Simple 2
 
-# Simple 3
+### Simple 3
 
-# Simple 4
+### Simple 4
