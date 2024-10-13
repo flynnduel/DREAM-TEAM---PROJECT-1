@@ -60,13 +60,13 @@ This query lists each employee based on the most orders fulfilled to the least a
 This query shows how many records from each genre have recieved promotions
 <img width="729" alt="Screenshot 2024-10-13 at 18 41 12" src="https://github.com/user-attachments/assets/78ed185f-2484-4324-bd62-d3d2bdfccf99">
 
-**Why is this important for management? -**
+**Why is this important for management? -** Understanding the patterns between music genres and promotions is critical for managment because it can help them decide which genres and records to keep in stock. If artists from certian genres commonly run promotions, it may not be as profitable for the store to keep lots of records in that genre.
 
 ### Complex 5
 This query shows the name, order date, and order ID of customers that have placed an order that has not yet been shipped.
 <img width="839" alt="Screenshot 2024-10-13 at 18 45 09" src="https://github.com/user-attachments/assets/1c96933c-63f2-40bd-83b3-64efd5767a98">
 
-**Why is this important for management? -**
+**Why is this important for management? -** It is important for managers to keep track of what orders have been fulfilled and when. In order to maintain good customer service, managers must ensure orders are being fulfilled in a timely manner and no orders get forgotten.
 
 ### Complex 6
 
