@@ -33,6 +33,7 @@ MIST 4610: 29704 - Dream Team
 ### Complex 6
 
 ### Simple 1
+<img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 ### Simple 2
 
