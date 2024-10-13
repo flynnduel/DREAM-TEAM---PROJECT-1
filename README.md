@@ -4,11 +4,11 @@
 MIST 4610: 29704 - Dream Team
 
 # Team Members
-Flynn Duel
-Anna Pachon
-Jeremiah Doherty
-Geetika Polkam
-Krutee Pillay
+* Flynn Duel
+* Anna Pachon
+* Jeremiah Doherty
+* Geetika Polkam
+* Krutee Pillay
 
 # Problem Description
 
