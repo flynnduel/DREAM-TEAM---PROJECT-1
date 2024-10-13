@@ -28,7 +28,7 @@ The task at hand is to develop a database for a record store that will help with
 <img width="596" alt="Screenshot 2024-10-13 at 4 01 52 PM" src="https://github.com/user-attachments/assets/64d0231e-8791-428f-a12a-636f13f58383">
 
 ### Complex 4
-new query (could jeremiah run and replace with picture)
+new query from anna (could jeremiah run and replace with picture)
 
 shows how many records from each genre have recieved promotions:
 
@@ -45,7 +45,7 @@ JOIN promotion ON promotion_has_record.promotion_idpromotion = promotion.idpromo
 GROUP BY genre.genrename;
 
 ### Complex 5
-new query (could jeremiah run and replace with picture):
+new query from anna (could jeremiah run and replace with picture):
 show the name, order date, and order ID of customers that have placed an order that has not yet been shipped
 
 SELECT customer.firstname, customer.lastname, idorder, orderdate
@@ -64,7 +64,7 @@ WHERE NOT EXISTS (
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 ### Simple 2
-new query (could jeremiah run and replace with picture)
+new query from anna (could jeremiah run and replace with picture)
 shows all of the promotions that were over a week long and how long they lasted
 
 SELECT promotiondescription, startdate, enddate, DATEDIFF(enddate, startdate) AS duration
