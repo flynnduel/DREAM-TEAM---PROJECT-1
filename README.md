@@ -18,17 +18,7 @@ MIST 4610: 29704 - Dream Team
 
 ## Queries
 ### Complex 1
-SELECT artist.artistname, SUM(inventory.quantityinstock) AS remaining_inventory FROM inventory
-
-JOIN supplier_has_record 
-ON inventory.supplier_has_record_record_idrecord = supplier_has_record.record_idrecord
-
-JOIN record ON supplier_has_record.record_idrecord = record.idrecord
-
-JOIN artist ON record.artist_idartist = artist.idartist
-
-GROUP BY artist.artistname
-ORDER BY remaining_inventory DESC;
+<img width="510" alt="Screenshot 2024-10-13 at 3 58 51 PM" src="https://github.com/user-attachments/assets/2a261965-8bba-4352-8555-7aa209bc82e4">
 
 ### Complex 2
 
