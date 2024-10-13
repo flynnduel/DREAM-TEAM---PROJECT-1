@@ -78,6 +78,16 @@ WHERE NOT EXISTS (
     FROM shipment
     WHERE shipment.idshipment = order.shipment_idshipment);
 ### Complex 6
+New query from Geetika (could Jeremiah run and replace with picture) 
+
+select employee.firstname, employee.lastname, sum(order.totalamount) as total_sales 
+from employee
+join order on employee.idemployee = order.employee_idemployee 
+group by employee.firstname, employee.lastname
+order by total_sales desc; 
+
+This query shows the total sales by employee. Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
+
 
 ### Simple 1
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
