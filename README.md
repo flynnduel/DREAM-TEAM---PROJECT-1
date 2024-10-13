@@ -61,5 +61,6 @@ FROM promotion
 WHERE DATEDIFF(enddate, startdate) > 7;
 
 ### Simple 3
+<img width="500" alt="Screenshot 2024-10-13 at 4 22 00 PM" src="https://github.com/user-attachments/assets/11c2fde8-cd77-4118-9f71-36145e1c858a">
 
 ### Simple 4
