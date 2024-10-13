@@ -17,22 +17,33 @@ MIST 4610: 29704 - Dream Team
 # Data Dictionary
 
 # Queries
-# COMPLEX QUERY 1
+# Complex 1
+SELECT artist.artistname, SUM(inventory.quantityinstock) AS remaining_inventory FROM inventory
 
-# COMPLEX QUERY 2
+JOIN supplier_has_record 
+ON inventory.supplier_has_record_record_idrecord = supplier_has_record.record_idrecord
 
-# COMPLEX QUERY 3
+JOIN record ON supplier_has_record.record_idrecord = record.idrecord
 
-# COMPLEX QUERY 4
+JOIN artist ON record.artist_idartist = artist.idartist
 
-# COMPLEX QUERY 5
+GROUP BY artist.artistname
+ORDER BY remaining_inventory DESC;
 
-# COMPLEX QUERY 6
+# Complex 2
 
-# SIMPLE QUERY 1
+# Complex 3
 
-# SIMPLE QUERY 2
+# Complex 4
 
-# SIMPLE QUERY 3
+# Complex 5
 
-# SIMPLE QUERY 4
+# Complex 6
+
+# Simple 1
+
+# Simple 2
+
+# Simple 3
+
+# Simple 4
