@@ -87,7 +87,7 @@ This query shows all of the promotions that were over a week long and how long t
 
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
 
-**Why is this important for management? -**
+**Why is this important for management? -** This can help give management insight into what records are demand is like for certian records and what albums customers are least interested in purchasing. Typicaly, records that are on sale for a long time and still do not run out are not popular products. 
 
 ### Simple 3
 This query lists the number of orders, in descending order, placed in each state.
