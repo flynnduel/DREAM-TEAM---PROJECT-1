@@ -40,6 +40,8 @@ One last table was added on at the end for any promotions or discounts the busin
 <img width="510" alt="Screenshot 2024-10-13 at 3 58 51 PM" src="https://github.com/user-attachments/assets/2a261965-8bba-4352-8555-7aa209bc82e4">
 
 ### Complex 2
+This query lists the artists who sold the most records in the store in descending order.
+
 <img width="485" alt="Screenshot 2024-10-13 at 4 00 27 PM" src="https://github.com/user-attachments/assets/6b6fed06-57c1-41e4-9aac-8bf2c02d4a43">
 
 ### Complex 3
