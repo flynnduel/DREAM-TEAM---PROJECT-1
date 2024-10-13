@@ -27,7 +27,15 @@ MIST 4610: 29704 - Dream Team
 <img width="596" alt="Screenshot 2024-10-13 at 4 01 52 PM" src="https://github.com/user-attachments/assets/64d0231e-8791-428f-a12a-636f13f58383">
 
 ### Complex 4
+new query (could jeremiah run and replace with picture)
+shows how many records from each genre have recieved promotions:
 
+SELECT genrename, COUNT(DISTINCT record.idrecord) AS Promotion_amount
+FROM genre
+JOIN record ON genre.idgenre = record.genre_idgenre
+JOIN promotion_has_record ON record.idrecord = promotion_has_record.record_idrecord
+JOIN promotion ON promotion_has_record.promotion_idpromotion = promotion.idpromotion
+GROUP BY genre.genrename;
 ### Complex 5
 
 ### Complex 6
