@@ -11,9 +11,20 @@ MIST 4610: 29704 - Dream Team
 5. Krutee Pillay
 
 ## Problem Description
-The task at hand is to develop a database for a record store that will help with day to day activities. The main entity in this model is record, which represents the music albums in the store. Record has a relationship with other important entities such as artists, customers, promotions etc to help with running the store. This system is designed to help define the relationships between entities as well as be populated with sample data. Queries will be used to analyze the sample data.
+The objective is to design and implement a relational database that captures the key functions of a music record distribution company. At the core of this model is the record entity, representing individual music releases distributed to customers. The model will capture various relationships, including those between records, artists, genres, and suppliers, along with customer interactions through orders and shipments. This structure needs to accurately represent how records are supplied, promoted, and sold, while also allowing for tracking of inventory levels and employee involvement in order processing. The goal is to generate sample data for each entity and populate the database, enabling us to perform analytical queries that provide insights into sales trends, inventory management, and the effectiveness of promotions, supporting data-driven business decisions.
 
 ## Data Model
+**Explanation of Data Model:**
+
+This data model outlines the framework of a music record distribution system, structured to handle critical data about customers, orders, records, employees, and suppliers, enabling efficient management of order processing, inventory control, promotions, and shipping logistics.
+
+The customer entity stores essential contact and address information for clients, with each customer able to place multiple orders. The order entity, which includes fields for order date, total amount, and payment method, is linked to a specific employee who oversees the transaction. This supports accountability and task management within the organization. To capture the details of each order, the orderdetail table acts as a bridge between order and record, allowing each order to include multiple records and each record to appear in various orders, representing a many-to-many relationship.
+
+The record entity, which holds information such as title, release year, and genre, connects to both artist and genre entities, allowing records to be categorized by the artists who created them and the genres they represent. This organization aids in inventory tracking and marketing initiatives. Supplier data, managed in a dedicated entity, links to records through the supplier_has_record associative table, enabling each supplier to provide several records and each record to have multiple suppliers. This setup, combined with the inventory table that monitors stock levels and reorder points, enables effective inventory management.
+
+The promotion entity, containing details about promotional campaigns, links to records through the promotion_has_record table, allowing for targeted marketing efforts on selected records. Finally, the shipment entity captures shipping information, including dates, addresses, and costs, connecting to individual orders to facilitate end-to-end order tracking.
+
+Overall, this model provides a structured approach to managing the intricacies of a record distribution business, supporting everything from customer order processing and inventory control to supplier management and promotional campaigns, while enabling insightful analysis for strategic decision-making.
 
 ![project1dbpic](https://github.com/user-attachments/assets/328c88e4-59ad-4e66-9eb4-57fdf2dbd398)
 
