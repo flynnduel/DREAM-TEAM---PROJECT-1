@@ -31,6 +31,7 @@ One last table was added on at the end for any promotions or discounts the busin
 ## Data Dictionary
 
 ![Image 10-13-24 at 6 15 PM](https://github.com/user-attachments/assets/d689968c-9a82-46b7-bfb7-5430b57b2cfd)
+![Image 10-13-24 at 6 32 PM](https://github.com/user-attachments/assets/22ee2765-c9ae-4976-a42a-6f70675daf86)
 
 ## Queries
 ### Complex 1
