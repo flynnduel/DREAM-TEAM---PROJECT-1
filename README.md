@@ -48,6 +48,9 @@ This query lists each employee based on the most orders fulfilled to the least a
 **Why is this important for management? -** Understanding how many orders each employee has fulfilled is important for management because it allows management to make decisions based off of employee performance. It allows for management to create better systems and differentiate work more efficiently either by getting rid of unnecessary employees or making sure certain employees step up their work. It will show management which employees are doing their jobs well and which ones are slacking. 
 
 ### Complex 4
+
+<img width="729" alt="Screenshot 2024-10-13 at 18 41 12" src="https://github.com/user-attachments/assets/78ed185f-2484-4324-bd62-d3d2bdfccf99">
+
 new query from anna (could jeremiah run and replace with picture)
 
 shows how many records from each genre have recieved promotions:
@@ -65,6 +68,8 @@ JOIN promotion ON promotion_has_record.promotion_idpromotion = promotion.idpromo
 GROUP BY genre.genrename;
 
 ### Complex 5
+<img width="839" alt="Screenshot 2024-10-13 at 18 45 09" src="https://github.com/user-attachments/assets/1c96933c-63f2-40bd-83b3-64efd5767a98">
+
 new query from anna (could jeremiah run and replace with picture):
 show the name, order date, and order ID of customers that have placed an order that has not yet been shipped
 
