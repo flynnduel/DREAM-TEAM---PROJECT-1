@@ -35,13 +35,15 @@ One last table was added on at the end for any promotions or discounts the busin
 
 ## Queries
 ### Complex 1
+ This query produces the remaining inventory for each artist in descending order.
+ 
 <img width="510" alt="Screenshot 2024-10-13 at 3 58 51 PM" src="https://github.com/user-attachments/assets/2a261965-8bba-4352-8555-7aa209bc82e4">
 
 ### Complex 2
 <img width="485" alt="Screenshot 2024-10-13 at 4 00 27 PM" src="https://github.com/user-attachments/assets/6b6fed06-57c1-41e4-9aac-8bf2c02d4a43">
 
 ### Complex 3
-This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled
+This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled.
 
 <img width="596" alt="Screenshot 2024-10-13 at 4 01 52 PM" src="https://github.com/user-attachments/assets/64d0231e-8791-428f-a12a-636f13f58383">
 
@@ -49,11 +51,11 @@ This query lists each employee based on the most orders fulfilled to the least a
 
 ### Complex 4
 
-shows how many records from each genre have recieved promotions:
+This query shows how many records from each genre have recieved promotions
 <img width="729" alt="Screenshot 2024-10-13 at 18 41 12" src="https://github.com/user-attachments/assets/78ed185f-2484-4324-bd62-d3d2bdfccf99">
 
 ### Complex 5
-shows the name, order date, and order ID of customers that have placed an order that has not yet been shipped
+This query shows the name, order date, and order ID of customers that have placed an order that has not yet been shipped.
 <img width="839" alt="Screenshot 2024-10-13 at 18 45 09" src="https://github.com/user-attachments/assets/1c96933c-63f2-40bd-83b3-64efd5767a98">
 
 ### Complex 6
@@ -67,9 +69,10 @@ The first query aims to identify and list all artists from the United States who
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
-### Simple 2
 
-shows all of the promotions that were over a week long and how long they lasted:
+### Simple 2
+This query shows all of the promotions that were over a week long and how long they lasted each lasted.
+
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
 
 ### Simple 3
@@ -77,7 +80,8 @@ This query lists the number of orders, in descending order, placed in each state
 
 <img width="500" alt="Screenshot 2024-10-13 at 4 22 00 PM" src="https://github.com/user-attachments/assets/11c2fde8-cd77-4118-9f71-36145e1c858a">
 
-**Why is this important for management? -** Management needs to be able to determine what states are doing the best from a sales standpoint. This query allows management to track where most of their sales are coming from and then make the appropriate decisions regarding the best way to approach selling in each state. One state may have many sales while another is doing really well; this query will allow management to decide on where they want to focus their marketing. It will also further aid management in the decision of if they want to pull out of a certain state that is not producing the amount of sales it needs to be producing. 
+**Why is this important for management? -** Management needs to be able to determine what states are doing the best from a sales standpoint. This query allows management to track where most of their sales are coming from and then make the appropriate decisions regarding the best way to approach selling in each state. One state may have many sales while another is doing really well; this query will allow management to decide on where they want to focus their marketing. It will also further aid management in the decision of if they want to pull out of a certain state that is not producing the amount of sales it needs to be producing.
+
 ### Simple 4
 This query lists the names of artists who have less than 3 records associated with them.
 <img width="584" alt="Screenshot 2024-10-13 at 19 07 09" src="https://github.com/user-attachments/assets/a4fc4d23-66ef-4830-b5d8-1b9fb8657244">
