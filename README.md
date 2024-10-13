@@ -4,7 +4,7 @@
 MIST 4610: 29704 - Dream Team
 
 ## Team Members
-1. Flynn Duel
+1. Flynn Duel 
 2. Anna Pachon
 3. Jeremiah Doherty
 4. Geetika Polkam
@@ -13,9 +13,7 @@ MIST 4610: 29704 - Dream Team
 ## Problem Description
 
 ## Data Model
-
-## Data Dictionary
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3QwgzIk"  ><a href="//imgur.com/a/3QwgzIk">Data Model</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## Queries
 ### Complex 1
 SELECT artist.artistname, SUM(inventory.quantityinstock) AS remaining_inventory FROM inventory
