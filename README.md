@@ -45,7 +45,19 @@ JOIN promotion ON promotion_has_record.promotion_idpromotion = promotion.idpromo
 GROUP BY genre.genrename;
 
 ### Complex 5
+new query (could jeremiah run and replace with picture):
+show the name, order date, and order ID of customers that have placed an order that has not yet been shipped
 
+SELECT customer.firstname, customer.lastname, idorder, orderdate
+
+FROM customer, order
+
+JOIN order ON customer.idcustomer = order.customer_idcustomer
+
+WHERE NOT EXISTS (
+    SELECT shipped_date
+    FROM shipment
+    WHERE shipment.idshipment = order.shipment_idshipment);
 ### Complex 6
 
 ### Simple 1
