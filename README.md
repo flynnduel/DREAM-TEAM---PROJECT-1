@@ -14,7 +14,9 @@ MIST 4610: 29704 - Dream Team
 The task at hand is to develop a database for a record store that will help with day to day activities. The main entity in this model is record, which represents the music albums in the store. Record has a relationship with other important entities such as artists, customers, promotions etc to help with running the store. This system is designed to help define the relationships between entities as well as be populated with sample data. Queries will be used to analyze the sample data.
 
 ## Data Model
-<img width="583" alt="Screenshot 2024-10-13 at 3 50 38 PM" src="https://github.com/user-attachments/assets/4ee3a424-21e4-4571-8d28-07ec536c393b">
+
+![project1dbpic](https://github.com/user-attachments/assets/328c88e4-59ad-4e66-9eb4-57fdf2dbd398)
+
 
 
 ## Queries
