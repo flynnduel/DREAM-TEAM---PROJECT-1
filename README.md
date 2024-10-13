@@ -61,22 +61,13 @@ shows the name, order date, and order ID of customers that have placed an order 
 This query shows the total sales by employee. Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
 <img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
 
-
 ### Simple 1
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 ### Simple 2
 
+shows all of the promotions that were over a week long and how long they lasted:
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
-
-new query from anna (could jeremiah run and replace with picture)
-shows all of the promotions that were over a week long and how long they lasted
-
-SELECT promotiondescription, startdate, enddate, DATEDIFF(enddate, startdate) AS duration
-
-FROM promotion
-
-WHERE DATEDIFF(enddate, startdate) > 7;
 
 ### Simple 3
 This query lists the number of orders, in descending order, placed in each state.
