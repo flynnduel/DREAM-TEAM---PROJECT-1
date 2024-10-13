@@ -51,6 +51,14 @@ GROUP BY genre.genrename;
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 ### Simple 2
+new query (could jeremiah run and replace with picture)
+shows all of the promotions that were over a week long and how long they lasted
+
+SELECT promotiondescription, startdate, enddate, DATEDIFF(enddate, startdate) AS duration
+
+FROM promotion
+
+WHERE DATEDIFF(enddate, startdate) > 7;
 
 ### Simple 3
 
