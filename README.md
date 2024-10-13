@@ -25,7 +25,11 @@ The task at hand is to develop a database for a record store that will help with
 <img width="485" alt="Screenshot 2024-10-13 at 4 00 27 PM" src="https://github.com/user-attachments/assets/6b6fed06-57c1-41e4-9aac-8bf2c02d4a43">
 
 ### Complex 3
+This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled
+
 <img width="596" alt="Screenshot 2024-10-13 at 4 01 52 PM" src="https://github.com/user-attachments/assets/64d0231e-8791-428f-a12a-636f13f58383">
+
+**Why is this important for management? -** Understanding how many orders each employee has fulfilled is important for management because it allows management to make decisions based off of employee performance. It allows for management to create better systems and differentiate work more efficiently either by getting rid of unnecessary employees or making sure certain employees step up their work. It will show management which employees are doing their jobs well and which ones are slacking. 
 
 ### Complex 4
 new query from anna (could jeremiah run and replace with picture)
