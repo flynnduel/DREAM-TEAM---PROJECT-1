@@ -49,56 +49,26 @@ This query lists each employee based on the most orders fulfilled to the least a
 
 ### Complex 4
 
+shows how many records from each genre have recieved promotions:
 <img width="729" alt="Screenshot 2024-10-13 at 18 41 12" src="https://github.com/user-attachments/assets/78ed185f-2484-4324-bd62-d3d2bdfccf99">
 
-new query from anna (could jeremiah run and replace with picture)
-
-shows how many records from each genre have recieved promotions:
-
-SELECT genrename, COUNT(DISTINCT record.idrecord) AS Promotion_amount
-
-FROM genre
-
-JOIN record ON genre.idgenre = record.genre_idgenre
-
-JOIN promotion_has_record ON record.idrecord = promotion_has_record.record_idrecord
-
-JOIN promotion ON promotion_has_record.promotion_idpromotion = promotion.idpromotion
-
-GROUP BY genre.genrename;
-
 ### Complex 5
+shows the name, order date, and order ID of customers that have placed an order that has not yet been shipped
 <img width="839" alt="Screenshot 2024-10-13 at 18 45 09" src="https://github.com/user-attachments/assets/1c96933c-63f2-40bd-83b3-64efd5767a98">
 
-new query from anna (could jeremiah run and replace with picture):
-show the name, order date, and order ID of customers that have placed an order that has not yet been shipped
-
-SELECT customer.firstname, customer.lastname, idorder, orderdate
-
-FROM customer, order
-
-JOIN order ON customer.idcustomer = order.customer_idcustomer
-
-WHERE NOT EXISTS (
-    SELECT shipped_date
-    FROM shipment
-    WHERE shipment.idshipment = order.shipment_idshipment);
 ### Complex 6
-New query from Geetika (could Jeremiah run and replace with picture) 
-
-select employee.firstname, employee.lastname, sum(order.totalamount) as total_sales 
-from employee
-join order on employee.idemployee = order.employee_idemployee 
-group by employee.firstname, employee.lastname
-order by total_sales desc; 
 
 This query shows the total sales by employee. Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
+<img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
 
 
 ### Simple 1
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 ### Simple 2
+
+<img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
+
 new query from anna (could jeremiah run and replace with picture)
 shows all of the promotions that were over a week long and how long they lasted
 
