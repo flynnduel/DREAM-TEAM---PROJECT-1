@@ -4,12 +4,11 @@
 MIST 4610: 29704 - Dream Team
 
 ## Team Members
-1. Flynn Duel 
-2. Anna Pachon
+1. Flynn Duel https://github.com/flynnduel
+2. Anna Pachon https://github.com/AnnaPachon
 3. Jeremiah Doherty https://github.com/jdoherty18
-4. 4. Geetika Polkam
-5. Krutee Pillay
-
+4. Geetika Polkam https://github.com/geetikapolkam
+5. 5. Krutee Pillay https://github.com/kruteepillay
 ## Problem Description
 The objective is to design and implement a relational database that captures the key functions of a music record distribution company. At the core of this model is the record entity, representing individual music releases distributed to customers. The model will capture various relationships, including those between records, artists, genres, and suppliers, along with customer interactions through orders and shipments. This structure needs to accurately represent how records are supplied, promoted, and sold, while also allowing for tracking of inventory levels and employee involvement in order processing. The goal is to generate sample data for each entity and populate the database, enabling us to perform analytical queries that provide insights into sales trends, inventory management, and the effectiveness of promotions, supporting data-driven business decisions.
 
