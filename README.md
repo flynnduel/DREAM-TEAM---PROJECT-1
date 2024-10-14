@@ -33,6 +33,9 @@ One last table was added on at the end for any promotions or discounts the busin
 ![Image 10-13-24 at 6 32 PM](https://github.com/user-attachments/assets/22ee2765-c9ae-4976-a42a-6f70675daf86)
 
 ## Queries
+
+<img width="881" alt="Screenshot 2024-10-13 at 8 52 24 PM" src="https://github.com/user-attachments/assets/4175af0c-7a6f-46c4-bfff-08b7bbd2f6b8">
+
 ### Complex 1
  This query produces the remaining inventory for each artist in descending order.
  
