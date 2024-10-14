@@ -7,7 +7,8 @@ MIST 4610: 29704 - Dream Team
 1. Flynn Duel 
 2. Anna Pachon
 3. Jeremiah Doherty [
-](https://github.com/jdoherty18)4. Geetika Polkam
+](https://github.com/jdoherty18)
+4. Geetika Polkam
 5. Krutee Pillay
 
 ## Problem Description
