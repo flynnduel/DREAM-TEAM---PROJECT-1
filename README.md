@@ -103,6 +103,6 @@ This query lists the names of artists who have less than 3 records associated wi
 **Why is this important for management? -** This query can be useful to management for identifying underrepresented or emerging artists within their catalog. It helps pinpoint artists who have not yet been capitalized on by the management team. By recognizing these artists, management can explore opportunities to expand their record catalog. This insight is valuable for strategic planning, as investing in these artists could boost market presence and generate additional revenue.
 
 ### Database Information
-Name of the database: 
+Name of the database: cs_jdd29152
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_QX();
