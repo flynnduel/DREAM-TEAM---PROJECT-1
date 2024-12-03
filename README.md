@@ -27,7 +27,8 @@ To increase the efficiency of our model our team added some one-to-one recursive
 
 Lastly, keeping the holiday spirit in mind we added on a loyalty program table. This was attached to the customer table with a one-to-many relationship and also attached to the promotion table with another one-to-many relationship. Management thought this was important to add as a loyalty program will allow more incentive for our customers. 
 
-![Image 12-3-24 at 12 02 PM](https://github.com/user-attachments/assets/58d12045-16c5-431a-b637-1d1870483add)
+![Image 12-3-24 at 11 45 AM](https://github.com/user-attachments/assets/d155d5d5-f465-4ba8-8bdd-bfcb39e0f486)
+
 
 
 
