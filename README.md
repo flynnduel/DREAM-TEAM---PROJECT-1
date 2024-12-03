@@ -97,11 +97,11 @@ This visualization shows the top 5 genres by revenue earned in the year of 2023.
 **Why is this important for management? -** Management can use this to make strategic decisions regarding where they want to focus their marketing capital moving into 2024. Since Jazz is shown to be generating the most revenue it would be smart to make sure to invest a large amount of funds into Jazz marketing moving into 2024.
 
 ### Tableau 2
-The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
+This visualization shows the customers listed by their first name and last name on the y-axis and their order totals summed up on the x-axis
 
-<img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
+![tableau 3](https://github.com/user-attachments/assets/8a4bf5c6-cd37-421c-9b56-a6b6ac12baa8)
 
-**Why is this important for management? -** This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
+**Why is this important for management? -** This shows management who their top buyers are. With this information, management can make informed and strategic decisions based on customer demographics. This allows management to target specific market segments effectively and efficiently. 
 
 ### Tableau 3
 This query shows all of the promotions that were over a week long and how long they lasted each lasted.
