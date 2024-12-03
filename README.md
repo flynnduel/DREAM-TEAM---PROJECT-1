@@ -46,7 +46,8 @@ Lastly, keeping the holiday spirit in mind we added on a loyalty program table. 
 ### Complex 1
  This query produces the remaining inventory for each artist in descending order.
  
-<img width="510" alt="Screenshot 2024-10-13 at 3 58 51 PM" src="https://github.com/user-attachments/assets/2a261965-8bba-4352-8555-7aa209bc82e4">
+<img width="633" alt="Screenshot 2024-12-03 at 5 21 22 PM" src="https://github.com/user-attachments/assets/d2796cea-4215-4fe6-a557-5696b76cae9d">
+
 
 **Why is this important for management? -** Management can use this to plan out promotions and or sales to get records off the shelves.
 
