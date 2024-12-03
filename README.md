@@ -59,12 +59,20 @@ This query identifies each genre by total revenue and lists it in descending ord
 
 **Why is this important for management? -** Management can use this to identify where most of their revenue comes from and communicate with suppliers to ensure the best selling genres are in stock. 
 
-### Complex 3
+### Complex 3 (OLD)
 This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled.
 
 <img width="596" alt="Screenshot 2024-10-13 at 4 01 52 PM" src="https://github.com/user-attachments/assets/64d0231e-8791-428f-a12a-636f13f58383">
 
 **Why is this important for management? -** Understanding how many orders each employee has fulfilled is important for management because it allows management to make decisions based off of employee performance. It allows for management to create better systems and differentiate work more efficiently either by getting rid of unnecessary employees or making sure certain employees step up their work. It will show management which employees are doing their jobs well and which ones are slacking. 
+
+### Complex 3 (NEW)
+This query lists each employee based on the highest total revenue generated from orders. 
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/514f31a3-d7ca-49f0-801d-b5804528f727">
+
+**Why is this important for management? -** This helps management assess individual performance and recognize employees who are generating the most revenue. This could highlight other skills, such as maintaining strong customer relationships. Top employees can share skills and product knowledge to others and management can also provide more training and support for lower-performing employees.
+
 
 ### Complex 4
 
