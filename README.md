@@ -80,12 +80,12 @@ This query shows the name, order date, and order ID of customers that have place
 
 ### Tableau 1
 
-This query shows the total sales by employee. 
+This visualization shows the top 5 genres by revenue earned in the year of 2023. 
 
 ![tableau 1](https://github.com/user-attachments/assets/a5dce6ae-7593-433c-be2b-17170ac1c6b4)
 
 
-**Why is this important for management? -** Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
+**Why is this important for management? -** Management can use this to make strategic decisions regarding where they want to focus their marketing capital moving into 2024. Since Jazz is shown to be generating the most revenue it would be smart to make sure to invest a large amount of funds into Jazz marketing moving into 2024.
 
 ### Tableau 2
 The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
