@@ -1,4 +1,4 @@
-# DREAM-TEAM---PROJECT-1
+# DREAM-TEAM---PROJECT-2
 
 ## Team Name
 MIST 4610: 29704 - Dream Team
@@ -21,16 +21,22 @@ Attached to the record table is our Supplier and Inventory tables. These two tab
 
 On the other side of the database, we started with 3 primary tables; Customer, Shipment, and Employee. Customer and Employee are both attached to the Order table with one-to-many relationships, and shipments are attached to the Order table with a one-to-one relationship. This is because our shipments will go out once. Our order table contains our foreign keys for all these tables so we know that when we look at the table we can see the shipment status, the employee who rang in the order, and the customer who ordered it. 
 
-The order table is also attached to the Order Detail table with Order being the primary table in the one-to-many relationship. Order Detail is then attached to the record table with another one-to-many relationship with Record being the primary table. This brings in both sides of the business; the product side which includes the records, and our financial side which includes our customers, employees, and orders.
+The order table is also attached to the Order Detail table with Order being the primary table in the one-to-many relationship. Order Detail is then attached to the record table with another one-to-many relationship with Record being the primary table. This brings in both sides of the business; the product side which includes the records, and our financial side which includes our customers, employees, and orders. One last table was added on at the end for any promotions or discounts the business has. There is a many-to-many relationship between record and promotion to make sure the specific record that was chosen is eligible for a promotion, and the promotion that was chosen is applied to the correct record. 
 
-One last table was added on at the end for any promotions or discounts the business has. There is a many-to-many relationship between record and promotion to make sure the specific record that was chosen is eligible for a promotion, and the promotion that was chosen is applied to the correct record. 
+To increase the efficiency of our model our team added some one-to-one recursive relationships. We added one for a boss in our Employee table as it will help management see how employees are performing under different authorities. We also added a one-to-one recursive relationship for holiday promotions in our promotion table as Christmas is coming around the corner! Our holiday promotions are simply a 10% discount added on to all purchases starting December 1st and ending December 26th, which is why we thought it would be best represented through a recursive relationship. 
 
-![project1dbpic](https://github.com/user-attachments/assets/328c88e4-59ad-4e66-9eb4-57fdf2dbd398)
+Lastly, keeping the holiday spirit in mind we added on a loyalty program table. This was attached to the customer table with a one-to-many relationship and also attached to the promotion table with another one-to-many relationship. Management thought this was important to add as a loyalty program will allow more incentive for our customers. 
+
+![Image 12-3-24 at 12 02 PM](https://github.com/user-attachments/assets/58d12045-16c5-431a-b637-1d1870483add)
+
+
 
 ## Data Dictionary
 
-![Image 10-13-24 at 6 15 PM](https://github.com/user-attachments/assets/d689968c-9a82-46b7-bfb7-5430b57b2cfd)
-![Image 10-13-24 at 6 32 PM](https://github.com/user-attachments/assets/22ee2765-c9ae-4976-a42a-6f70675daf86)
+![Image 12-3-24 at 12 39 PM](https://github.com/user-attachments/assets/3a7c38af-32a6-40dc-b6f6-fd81955cda36)
+![Image 12-3-24 at 12 40 PM](https://github.com/user-attachments/assets/d2887e47-cfa6-4b43-b92e-859b518b73f2)
+
+
 
 ## Queries
 
