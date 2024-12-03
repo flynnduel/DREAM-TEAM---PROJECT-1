@@ -52,11 +52,12 @@ Lastly, keeping the holiday spirit in mind we added on a loyalty program table. 
 **Why is this important for management? -** Management can use this to help keep the supply chain moving smoothly. If management knows what Records are running low, they can then restock those records so that they do not have to restock everytime current stock on a record hits zero.
 
 ### Complex 2
-This query lists the artists who sold the most records in the store in descending order.
+This query identifies each genre by total revenue and lists it in descending order.
 
-<img width="485" alt="Screenshot 2024-10-13 at 4 00 27 PM" src="https://github.com/user-attachments/assets/6b6fed06-57c1-41e4-9aac-8bf2c02d4a43">
+<img width="578" alt="Screenshot 2024-12-03 at 5 45 05 PM" src="https://github.com/user-attachments/assets/14b6e262-efbd-40d8-946d-ee8ee848fcb0">
 
-**Why is this important for management? -** Management can use this to identify where most of their revenue comes from and communicate with suppliers to ensure the best selling artists are in stock. 
+
+**Why is this important for management? -** Management can use this to identify where most of their revenue comes from and communicate with suppliers to ensure the best selling genres are in stock. 
 
 ### Complex 3
 This query lists each employee based on the most orders fulfilled to the least amount of orders fulfilled.
