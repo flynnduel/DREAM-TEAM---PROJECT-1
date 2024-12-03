@@ -81,7 +81,9 @@ This query shows the name, order date, and order ID of customers that have place
 ### Tableau 1
 
 This query shows the total sales by employee. 
-<img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
+
+![tableau 1](https://github.com/user-attachments/assets/a5dce6ae-7593-433c-be2b-17170ac1c6b4)
+
 
 **Why is this important for management? -** Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
 
