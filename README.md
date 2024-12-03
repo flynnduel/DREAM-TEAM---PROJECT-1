@@ -78,39 +78,26 @@ This query shows the name, order date, and order ID of customers that have place
 
 **Why is this important for management? -** It is important for managers to keep track of what orders have been fulfilled and when. In order to maintain good customer service, managers must ensure orders are being fulfilled in a timely manner and no orders get forgotten. In this case no orders have been fulfilled so it would clue management into the fact that there is a problem in regards orders being fulfilled.
 
-### Complex 6
+### Tableau 1
 
 This query shows the total sales by employee. 
 <img width="761" alt="Screenshot 2024-10-13 at 18 48 06" src="https://github.com/user-attachments/assets/b7d04538-d018-4806-89c0-e2bf6f424fbe">
 
 **Why is this important for management? -** Management can use this to track employee performance and check which employees are bringing in the most revenue. Management can also use this for performance reviews and increase the effectiveness of sales strategies. 
 
-### Simple 1
+### Tableau 2
 The first query aims to identify and list all artists from the United States who have a manufacturer's suggested retail price (MSRP) of over $25
 
 <img width="566" alt="Screenshot 2024-10-13 at 4 04 15 PM" src="https://github.com/user-attachments/assets/c67b472e-7d06-49e2-9a04-b98221da219a">
 
 **Why is this important for management? -** This query is valuable for management because it helps them monitor popular and in-demand records within the U.S. market. By identifying which artists and records are commanding higher prices, management can analyze market trends and consumer demand. The data can also inform decisions about where to focus marketing efforts or expand availability, either domestically or internationally, to capitalize on high-demand artists and maximize revenue potential. Understanding these trends at a detailed level enables more strategic planning and optimized inventory management.
 
-### Simple 2
+### Tableau 3
 This query shows all of the promotions that were over a week long and how long they lasted each lasted.
 
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
 
 **Why is this important for management? -** This can help give management insight into what records are demand is like for certian records and what albums customers are least interested in purchasing. Typicaly, records that are on sale for a long time and still do not run out are not popular products. 
-
-### Simple 3
-This query lists the number of orders, in descending order, placed in each state.
-
-<img width="500" alt="Screenshot 2024-10-13 at 4 22 00 PM" src="https://github.com/user-attachments/assets/11c2fde8-cd77-4118-9f71-36145e1c858a">
-
-**Why is this important for management? -** Management needs to be able to determine what states are doing the best from a sales standpoint. This query allows management to track where most of their sales are coming from and then make the appropriate decisions regarding the best way to approach selling in each state. One state may have many sales while another is doing really well; this query will allow management to decide on where they want to focus their marketing. It will also further aid management in the decision of if they want to pull out of a certain state that is not producing the amount of sales it needs to be producing.
-
-### Simple 4
-This query lists the names of artists who have less than 3 records associated with them.
-<img width="584" alt="Screenshot 2024-10-13 at 19 07 09" src="https://github.com/user-attachments/assets/a4fc4d23-66ef-4830-b5d8-1b9fb8657244">
-
-**Why is this important for management? -** This query can be useful to management for identifying underrepresented or emerging artists within their catalog. It helps pinpoint artists who have not yet been capitalized on by the management team. By recognizing these artists, management can explore opportunities to expand their record catalog. This insight is valuable for strategic planning, as investing in these artists could boost market presence and generate additional revenue.
 
 ### Database Information
 Name of the database: cs_jdd29152
