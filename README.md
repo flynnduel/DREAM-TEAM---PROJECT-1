@@ -44,12 +44,12 @@ Lastly, keeping the holiday spirit in mind we added on a loyalty program table. 
 <img width="881" alt="Screenshot 2024-10-13 at 8 52 24 PM" src="https://github.com/user-attachments/assets/4175af0c-7a6f-46c4-bfff-08b7bbd2f6b8">
 
 ### Complex 1
- This query produces the remaining inventory for each artist in descending order.
+ This query shows records and suppliers of which items have gone below the low stock threshold of 20 items.
  
 <img width="633" alt="Screenshot 2024-12-03 at 5 21 22 PM" src="https://github.com/user-attachments/assets/d2796cea-4215-4fe6-a557-5696b76cae9d">
 
 
-**Why is this important for management? -** Management can use this to plan out promotions and or sales to get records off the shelves.
+**Why is this important for management? -** Management can use this to help keep the supply chain moving smoothly. If management knows what Records are running low, they can then restock those records so that they do not have to restock everytime current stock on a record hits zero.
 
 ### Complex 2
 This query lists the artists who sold the most records in the store in descending order.
