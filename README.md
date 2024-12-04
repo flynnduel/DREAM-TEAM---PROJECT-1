@@ -80,12 +80,11 @@ List all promotions that apply to records by artists from a specific country, in
 
 ### Tableau 1
 
-This visualization shows the top 5 genres by revenue earned in the year of 2023. 
+This visualization shows the top 5 genres by average revenue per order. 
 
-![tableau 1](https://github.com/user-attachments/assets/a5dce6ae-7593-433c-be2b-17170ac1c6b4)
+![Vis1](https://github.com/user-attachments/assets/3ea93476-60bb-4caf-941a-d6dfcc149ba4)
 
-
-**Why is this important for management? -** Management can use this to make strategic decisions regarding where they want to focus their marketing capital moving into 2024. Since Jazz is shown to be generating the most revenue it would be smart to make sure to invest a large amount of funds into Jazz marketing moving into 2024.
+**Why is this important for management? -** Management can use this to make strategic decisions regarding where they want to focus their marketing capital. Since Classical is shown to be generating the most revenue per sale, it would be smart to allocate more inventory for it and invest more funds into Classical marketing. Management can also introduce new offerings to capitalize on customer interest in Classical and leverage these insights to improve the performance of other genres. 
 
 ### Tableau 2
 This visualization shows the customers listed by their first name and last name on the y-axis and their order totals summed up on the x-axis
