@@ -90,7 +90,7 @@ This visualization shows the top 5 genres by revenue earned in the year of 2023.
 ### Tableau 2
 This visualization shows the customers listed by their first name and last name on the y-axis and their order totals summed up on the x-axis
 
-![tableau 3](https://github.com/user-attachments/assets/8a4bf5c6-cd37-421c-9b56-a6b6ac12baa8)
+<img width="749" alt="Screenshot 2024-12-03 at 10 55 58 PM" src="https://github.com/user-attachments/assets/784f08e9-50cb-4353-8f42-4271c9551017">
 
 **Why is this important for management? -** This shows management who their top buyers are. With this information, management can make informed and strategic decisions based on customer demographics. This allows management to target specific market segments effectively and efficiently. 
 
