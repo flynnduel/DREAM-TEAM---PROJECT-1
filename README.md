@@ -52,7 +52,7 @@ This query identifies each genre by total revenue and lists it in descending ord
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/a057414c-b413-440b-b6be-9e0e221c4f8d">
 
-**Why is this important for management? -** Management can use this to identify where most of their revenue comes from and communicate with suppliers to ensure the best selling genres are in stock. 
+**Why is this important for management? -** Management can use this to identify the most popular genres and provides insights into customer preferences. Management can check which genre is driving the most revenue and prevent unnecessary inventory costs by stocking up on the most popular genres based on customer demand. This also allows Management to communicate with suppliers to ensure the best-selling genres are in stock. 
  
 ### Complex 3 
 This query lists each employee based on the highest total revenue generated from orders. 
