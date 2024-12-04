@@ -82,7 +82,7 @@ List all promotions that apply to records by artists from a specific country, in
 
 This visualization shows the top 5 genres by average revenue per order. 
 
-![Vis1](https://github.com/user-attachments/assets/3ea93476-60bb-4caf-941a-d6dfcc149ba4)
+![Vis1](https://github.com/user-attachments/assets/a786edf0-b2b5-4cfb-803b-76936a490a49)
 
 **Why is this important for management? -** Management can use this to make strategic decisions regarding where they want to focus their marketing capital. Since Classical is shown to be generating the most revenue per sale, it would be smart to allocate more inventory for it and invest more funds into Classical marketing. Management can also introduce new offerings to capitalize on customer interest in Classical and leverage these insights to improve the performance of other genres. 
 
