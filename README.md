@@ -104,6 +104,11 @@ This visualization shows the customers listed by their first name and last name 
 **Why is this important for management? -** This shows management who their top buyers are. With this information, management can make informed and strategic decisions based on customer demographics. This allows management to target specific market segments effectively and efficiently. 
 
 ### Tableau 3
+This visualization shows the amount of records the shop sold per year. The year is on the x-axis and the quantity is on the y-axis. 
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/bc44d70a-2f0b-42d8-aef5-d76c5be3c693">
+
+**Why is this important for management? -** This helps managment get an idea for how their shop is doing and if they are trending upwards or downwards. If there is low sales for several years in a row, that is a signal to managment that there should be a change to the business.
+
 This query shows all of the promotions that were over a week long and how long they lasted each lasted.
 
 <img width="809" alt="Screenshot 2024-10-13 at 18 53 00" src="https://github.com/user-attachments/assets/7f516809-e2e4-496e-85be-c0e5ca3cbaa0">
