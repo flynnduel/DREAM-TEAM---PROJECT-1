@@ -39,10 +39,6 @@ Lastly, keeping the holiday spirit in mind we added on a loyalty program table. 
 
 
 
-## Queries
-
-<img width="881" alt="Screenshot 2024-10-13 at 8 52 24 PM" src="https://github.com/user-attachments/assets/4175af0c-7a6f-46c4-bfff-08b7bbd2f6b8">
-
 ### Complex 1
  This query shows records and suppliers of which items have gone below the low stock threshold of 20 items.
  
