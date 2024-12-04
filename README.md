@@ -54,8 +54,7 @@ Lastly, keeping the holiday spirit in mind we added on a loyalty program table. 
 ### Complex 2
 This query identifies each genre by total revenue and lists it in descending order.
 
-<img width="578" alt="Screenshot 2024-12-03 at 5 45 05 PM" src="https://github.com/user-attachments/assets/14b6e262-efbd-40d8-946d-ee8ee848fcb0">
-
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/a057414c-b413-440b-b6be-9e0e221c4f8d">
 
 **Why is this important for management? -** Management can use this to identify where most of their revenue comes from and communicate with suppliers to ensure the best selling genres are in stock. 
  
